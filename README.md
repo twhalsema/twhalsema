@@ -14,7 +14,7 @@ It currently consists of this repository: https://github.com/twhalsema/walman
 
 The <b>walman</b> repo consists of 3 parts:
 1. <b>Walman</b> (short for Wallet Manager) - A Python program which allows the user to declaratively define Oracle wallets (database credential stores), populate them with credentials from 1password.com, and deploy the wallets to remove database client servers. (This allows centralized management of DB connection info for services to allow for easier password rotation.)
-2. Ansible and other automation files to create a test environment to demo <b>Walman</b>. These are found in the Examples directory.
+2. Ansible and other automation files to create a test environment to demo <b>Walman</b>. These are found in the <b>examples</b> directory.
 3. Documentation for <b>Walman</b> and the test environment setup. This is intended both for anyone to better understand Walman as well as to highlight my technical writing ability.
 
 ### Skills Demonstrated
