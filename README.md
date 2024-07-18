@@ -7,8 +7,8 @@ At the time of writing (July 2024), I am currently looking for a new job. I have
 - DevOps Engineer
 - Infrastructure Engineer
 
-# Professional Portfolio
-## Overview
+## Professional Portfolio
+### Overview
 I encourage anyone considering me for employment to look over the portfolio of work I have prepared.
 It currently consists of this repository: https://github.com/twhalsema/walman
 
@@ -17,7 +17,7 @@ The <b>walman</b> repo consists of 3 parts:
 2. Ansible and other automation files to create a test environment to demo <b>Walman</b>. These are found in the Examples directory.
 3. Documentation for <b>Walman</b> and the test environment setup. This is intended both for anyone to better understand Walman as well as to highlight my technical writing ability.
 
-## Skills Demonstrated
+### Skills Demonstrated
 The following skills are demonstrated in my portfolio.
 Please note that I have not used AI in the creation of any of the files found in my portfolio.
 
