@@ -12,10 +12,11 @@ At the time of writing (July 2024), I am currently looking for a new job. I have
 I encourage anyone considering me for employment to look over the portfolio of work I have prepared.
 It currently consists of this repository: https://github.com/twhalsema/walman
 
-The <b>walman</b> repo consists of 3 parts:
-1. <b>Walman</b> (short for Wallet Manager) - A Python program which allows the user to declaratively define Oracle wallets (database credential stores), populate them with credentials from 1password.com, and deploy the wallets to remove database client servers. (This allows centralized management of DB connection info for services to allow for easier password rotation.)
-2. Ansible and other automation files to create a test environment to demo <b>Walman</b>. These are found in the <b>examples</b> directory.
-3. Documentation for <b>Walman</b> and the test environment setup.
+The `walman` repo consists of 4 parts:
+1. `walman.py` (short for Wallet Manager) - A Python program which allows the user to declaratively define Oracle wallets (database credential stores), populate them with credentials from 1password.com, and deploy the wallets to remote database client servers. (This allows centralized management of DB connection info for services to allow for easier password rotation.)
+2. `walmandb_install.sql` - A SQL script which will create the structure of the repository database used by `walman.py`.
+3. `demo` - A directory with Vagrant, Ansible, other automation files which can automatically create a test environment to demonstrate `walman.py`.
+4. Documentation for `walman.py` and the included `demo`.
 
 ### Skills Demonstrated
 The following skills are demonstrated in my portfolio.
