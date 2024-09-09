@@ -1,11 +1,13 @@
 # Thomas Halsema
 ## Welcome
 Thank you for visiting my GitHub profile.
-At the time of writing (July 2024), I am currently looking for a new job. I have been an Oracle DBA for over 12 years, and I am ready to try something new. Over the last several months, I have been learning skills aligned with the following positions:
+At the time of writing (July 2024), I am currently looking for a new job. I have been a DBA for over 12 years, and I am ready to try something new. Over the last several months, I have been learning skills aligned with the following positions:
 
-- Site Reliability Engineer
+- Cloud DBA
 - DevOps Engineer
 - Infrastructure Engineer
+- Site Reliability Engineer
+
 
 ## Professional Portfolio
 ### Overview
