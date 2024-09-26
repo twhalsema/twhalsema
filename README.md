@@ -4,9 +4,10 @@ Thank you for visiting my GitHub profile.
 At the time of writing (July 2024), I am currently looking for a new job. I have been a DBA for over 12 years, and I am ready to try something new. Over the last several months, I have been learning skills aligned with the following positions:
 
 - Cloud DBA
+- Database Reliability Engineer (DBRE)
 - DevOps Engineer
 - Infrastructure Engineer
-- Site Reliability Engineer
+- Site Reliability Engineer (SRE)
 
 
 ## Professional Portfolio
