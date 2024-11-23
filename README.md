@@ -30,6 +30,7 @@ In alphabetical order, not by importance:
 |-----:|---------------|
 |Ansible|Conditionals, Loops, Playbooks, Templates, Vault, Variables|
 |Bash|Data structures, File manipulation|
+|Containers|Docker, Docker Compose|
 |Linux|Automation, Environment, Installation, Networking, Security|
 |Oracle database|DDL, DML, Installation, Multi-tenancy, Security, SQL, SQLnet, Wallets|
 |Python|Database queries, Data structures, File manipulation, SSH connections, User interface|
